@@ -22,7 +22,8 @@
 
 
 
-# Contact
+## Contact
 
 . Due to security reasons code isn't provided public.
-. Contact for code-related queries --> #bhupeshjain3221@gmail.com
+
+. Contact for code-related queries --> bhupeshjain3221@gmail.com
